@@ -31,3 +31,10 @@ Includes a contact form for visitors to reach out and a list of Tirumala's conta
 Contains social media links to Instagram, GitHub, LinkedIn, and CodePen, along with a mailto link for email.
 #### External Resources and Scripts:
 The Font Awesome library is used for icons, and JavaScript files are linked to enable additional functionality for interactivity (e.g., menu toggling).
+
+## OUTPUT:
+
+![screencapture-bobby8899-hub-github-io-CODTECH-TASK1-2024-11-10-22_41_07](https://github.com/user-attachments/assets/86570ccf-68f9-4fdb-bf39-213500ccfc65)
+
+## CONCLUSION:
+In conclusion, this portfolio website effectively presents Tirumala Ratnakar’s skills, experience, and contact information in a clean, organized layout. Each section is thoughtfully structured to guide visitors through Tirumala's profile, showcasing technical skills, featured projects, and educational background. The design, along with responsive elements, enhances usability on different devices, while the contact section and social links facilitate easy communication. Overall, this portfolio serves as a professional and engaging online presence, making a strong impression for future opportunities.
